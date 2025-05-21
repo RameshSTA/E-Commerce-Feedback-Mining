@@ -6,11 +6,11 @@ cachetools
 certifi
 charset-normalizer
 click
-cloudpathlib
+cloudpathlib~=0.16
 comm
-confection
+confection~=0.1.0
 cycler
-cymem
+cymem~=2.0.8
 decorator
 fonttools
 gitdb
@@ -21,13 +21,11 @@ joblib~=1.4
 jsonschema
 jsonschema-specifications
 kiwisolver
-langcodes
+langcodes~=3.3
 markdown-it-py
 MarkupSafe
 matplotlib~=3.8
-murmurhash
-namex
-nest-asyncio
+murmurhash~=1.0.10
 networkx~=3.2
 nltk~=3.8
 numpy~=1.26
@@ -36,10 +34,10 @@ pandas~=2.2
 Pillow~=10.0
 platformdirs
 plotly~=5.19
-preshed
+preshed~=3.0.9
 protobuf~=4.25
 pyarrow
-pydantic
+pydantic~=2.5
 pydantic_core
 Pygments
 pyparsing
@@ -56,12 +54,12 @@ scipy~=1.12
 seaborn~=0.13
 six
 soupsieve
-spacy~=3.7
-spacy-legacy
-spacy-loggers
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=866332bc03539sg0010380925794559f13217b00970275afea95671ab95dd99c
-srsly
-thinc
+spacy==3.7.2
+spacy-legacy~=3.0
+spacy-loggers~=1.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+srsly~=2.4
+thinc==8.1.12
 threadpoolctl
 tornado
 tqdm
@@ -69,6 +67,6 @@ typer
 typing_extensions
 urllib3
 vaderSentiment~=3.3
-wasabi
+wasabi~=1.1
 wordcloud~=1.9
 streamlit~=1.33.0
