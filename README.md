@@ -13,7 +13,7 @@
   <a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
 </p>
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit_App-Live_Demo-brightgreen.svg?style=for-the-badge)](https://github.com/RameshSTA/E-Commerce-Feedback-Mining)
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App-Live_Demo-brightgreen.svg?style=for-the-badge)](https://e-commerce-feedback-mining.streamlit.app/)
 [![License: Inquire](https://img.shields.io/badge/License-Inquire-lightgrey.svg?style=for-the-badge)](#15-license--permissions) 
 
 This project leverages Natural Language Processing (NLP) and Network Analysis to automatically extract actionable insights from women's e-commerce clothing reviews. By analyzing sentiment, identifying key discussion topics, and mapping their interconnections, the goal is to provide data-driven recommendations for business improvement and enhanced customer understanding.
@@ -48,9 +48,7 @@ In the dynamic e-commerce sector, deeply understanding customer feedback is cruc
 ## 2. Live Demo
 Explore the interactive findings of this project through the deployed Streamlit application:
 
-➡️ **https://github.com/RameshSTA/E-Commerce-Feedback-Mining**
-
-*(If not yet deployed, state: "The interactive Streamlit application can be run locally by following the 'Usage' instructions below.")*
+➡️ **https://e-commerce-feedback-mining.streamlit.app/**
 
 ---
 
