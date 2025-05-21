@@ -44,7 +44,7 @@ def render_about_me(base_dir, assets_dir):
                     unsafe_allow_html=True
                 )
                 # Caption below the image, also centered
-                st.markdown(f"<p style='text-align:center; font-size: smaller; color: #555;'>Ramesh Shrestha</p>", unsafe_allow_html=True)
+                st.markdown(f"<p style='text-align:center; font-size: smaller; color: #555;'></p>", unsafe_allow_html=True)
 
             except FileNotFoundError:
                 st.markdown(f"<p style='text-align:center; color:red;'><i>Profile photo placeholder - Image not found at `{logo_path}`. Ensure `{logo_filename}` is in the `assets` folder.</i></p>", unsafe_allow_html=True)
