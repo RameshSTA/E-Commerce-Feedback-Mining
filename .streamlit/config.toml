@@ -1,0 +1,14 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#4285F4"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F8F9FA"
+textColor="#202124"
+font="Open Sans"
+
+# You can also specify server settings if needed, but usually not for basic deployment
+# [server]
+# headless = true
+# enableCORS = false
+# port = 8501

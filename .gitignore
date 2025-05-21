@@ -1,0 +1,23 @@
+# Ignore virtual environments
+nlp_insights_env/
+env/
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large files
+*.h5
+*.pkl
+*.dylib
+*.so
+*.csvnlp_insights_env/
+__pycache__/
+*.pyc
