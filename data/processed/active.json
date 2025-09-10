@@ -1,0 +1,5 @@
+{
+  "source": "uploaded",
+  "normalized": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/processed/uploaded_normalized_20250910_134105.parquet",
+  "preprocessed": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/processed/uploaded_preprocessed_20250910_134105.parquet"
+}

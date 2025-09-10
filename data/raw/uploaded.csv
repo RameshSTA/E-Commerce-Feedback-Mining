@@ -1,0 +1,6 @@
+id,date,source,product,region,rating,text,order_id,category,tags
+1,2025-01-05,Shopify,UltraPhone X,US,5,Amazing camera and fast delivery!,1001.0,Electronics,camera;delivery
+2,2025-01-06,Amazon,ComfySneaks,EU,2,Sole came off after 2 days. Very disappointed.,1002.0,Fashion,defect;quality
+3,2025-01-06,Website,UltraPhone X,AU,3,"Okay overall, packaging damaged but phone works.",1003.0,Electronics,packaging
+4,2025-01-07,Twitter,FreshBeans,US,1,Moldy on arrival. Refund requested.,,Grocery,refund;quality
+5,2025-01-07,Email,UltraPhone X,NZ,4,"Support was helpful, resolved activation issue.",1005.0,Electronics,support

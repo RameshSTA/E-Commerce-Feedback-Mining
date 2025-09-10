@@ -1,0 +1,4 @@
+metric,value,model_tag
+accuracy,0.9159727479182438,logisticregression_50000
+f1_pos,0.9541637990364763,logisticregression_50000
+f1_neg,0.4962178517397882,logisticregression_50000

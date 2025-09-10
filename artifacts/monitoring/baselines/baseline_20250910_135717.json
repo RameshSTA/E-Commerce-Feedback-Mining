@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "created": "20250910_135717",
+    "source": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/uploaded/uploaded_data.csv"
+  },
+  "profile": {
+    "schema": {
+      "review_id": "numeric",
+      "product_id": "numeric",
+      "category": "categorical",
+      "rating": "numeric",
+      "review_text": "categorical"
+    },
+    "profile": {
+      "review_id": {
+        "type": "numeric",
+        "stats": {
+          "count": 15,
+          "mean": 8.0,
+          "std": 4.320493798938574,
+          "p50": 8.0,
+          "p90": 13.6,
+          "p99": 14.86,
+          "min": 1.0,
+          "max": 15.0
+        }
+      },
+      "product_id": {
+        "type": "numeric",
+        "stats": {
+          "count": 15,
+          "mean": 1008.0,
+          "std": 4.320493798938574,
+          "p50": 1008.0,
+          "p90": 1013.6,
+          "p99": 1014.86,
+          "min": 1001.0,
+          "max": 1015.0
+        }
+      },
+      "category": {
+        "type": "categorical",
+        "stats": {
+          "top_k": 30,
+          "dist": {
+            "Dresses": 0.2,
+            "Tops": 0.2,
+            "Jeans": 0.13333333333333333,
+            "Outerwear": 0.13333333333333333,
+            "Shoes": 0.13333333333333333,
+            "Accessories": 0.13333333333333333,
+            "Skirts": 0.06666666666666667
+          },
+          "other": 1.1102230246251565e-16
+        }
+      },
+      "rating": {
+        "type": "numeric",
+        "stats": {
+          "count": 15,
+          "mean": 3.4,
+          "std": 1.3564659966250538,
+          "p50": 4.0,
+          "p90": 5.0,
+          "p99": 5.0,
+          "min": 1.0,
+          "max": 5.0
+        }
+      },
+      "review_text": {
+        "type": "categorical",
+        "stats": {
+          "top_k": 30,
+          "dist": {
+            "Absolutely loved this dress! The fit was perfect and fabric feels premium.": 0.06666666666666667,
+            "Nice top, color is vibrant. Slightly loose but still good.": 0.06666666666666667,
+            "The jeans are uncomfortable and the material is rough.": 0.06666666666666667,
+            "Terrible quality. Stitching came apart after one wear.": 0.06666666666666667,
+            "Average jacket. Warm but the zipper is cheap.": 0.06666666666666667,
+            "Super comfy sneakers, wore them all day with no issues.": 0.06666666666666667,
+            "Pretty dress but the straps are a little short.": 0.06666666666666667,
+            "Poor stitching on the sleeves. Not worth the price.": 0.06666666666666667,
+            "This scarf is beautiful and soft. Great purchase!": 0.06666666666666667,
+            "Fit was okay but nothing special. Standard quality.": 0.06666666666666667,
+            "Horrible shoes, soles came off in a week.": 0.06666666666666667,
+            "Good coat, keeps me warm in winter. Looks stylish too.": 0.06666666666666667,
+            "Perfect for parties! Got so many compliments.": 0.06666666666666667,
+            "Shirt is fine but wrinkles too easily.": 0.06666666666666667,
+            "Nice handbag, plenty of space. Stitching is neat.": 0.06666666666666667
+          },
+          "other": 1.1102230246251565e-16
+        }
+      }
+    }
+  }
+}

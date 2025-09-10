@@ -1,0 +1,23 @@
+{
+  "run_id": "1757491648369",
+  "start_time": 1757491648.3698719,
+  "end_time": 1757491648.372007,
+  "status": "finished",
+  "tags": {
+    "page": "modeling",
+    "dataset": "session: uploaded_preprocessed.parquet"
+  },
+  "params": {
+    "model": "LogisticRegression",
+    "text_col": "text",
+    "label_col": "rating",
+    "max_features": 5000,
+    "ngram_max": 2,
+    "class_weight": "balanced",
+    "cv_folds": 3
+  },
+  "metrics": {
+    "accuracy": 0.18,
+    "f1_macro": 0.14552380952380953
+  }
+}

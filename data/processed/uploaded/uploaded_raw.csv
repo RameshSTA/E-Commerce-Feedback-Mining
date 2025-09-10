@@ -1,0 +1,501 @@
+ReviewID,ClothingID,Age,Title,ReviewText,Rating,Recommended,PositiveFeedbackCount,DivisionName,DepartmentName,ClassName
+1,151,29,Poor quality,"Love the color and design, very trendy.",2,1,46,General Petite,Dresses,Blouses
+2,192,43,Highly recommend,The material is very comfortable and fits perfectly.,2,0,14,Intimates,Dresses,Jackets
+3,114,33,Great fit,"I didn’t like the quality, it feels cheap.",2,1,47,Intimates,Bottoms,Pants
+4,171,68,Great fit,"Excellent purchase, will buy again.",2,0,45,General Petite,Outerwear,Pants
+5,160,54,Highly recommend,The material is very comfortable and fits perfectly.,5,1,39,Intimates,Tops,Blouses
+6,120,39,Not as expected,"Not worth the price, very disappointed.",4,0,17,General Petite,Outerwear,Jackets
+7,182,46,Poor quality,The material is very comfortable and fits perfectly.,1,1,41,General Petite,Tops,Pants
+8,186,31,Not as expected,"I didn’t like the quality, it feels cheap.",3,0,19,Intimates,Outerwear,Pants
+9,174,45,Too small,"Looks amazing, great value for money.",5,1,5,General,Dresses,Pants
+10,174,22,Great fit,The material is very comfortable and fits perfectly.,1,0,11,Intimates,Bottoms,Blouses
+11,187,64,Great fit,"Love the color and design, very trendy.",5,1,1,General,Bottoms,Jackets
+12,199,66,Perfect dress,The material is very comfortable and fits perfectly.,5,1,6,General Petite,Dresses,Jackets
+13,123,47,Too small,"Not worth the price, very disappointed.",3,1,15,General Petite,Tops,Jackets
+14,102,63,Great fit,"Not worth the price, very disappointed.",4,1,2,General,Tops,Jackets
+15,121,69,Too small,"Excellent purchase, will buy again.",2,1,44,General Petite,Tops,Dresses
+16,152,22,Poor quality,"Not worth the price, very disappointed.",4,1,2,General,Dresses,Dresses
+17,101,29,Love it,"The dress was smaller than expected, order one size up.",3,1,26,General,Tops,Jackets
+18,187,33,Great fit,"I didn’t like the quality, it feels cheap.",3,1,49,General Petite,Dresses,Blouses
+19,129,43,Perfect dress,"I didn’t like the quality, it feels cheap.",3,1,42,General,Outerwear,Dresses
+20,137,43,Poor quality,"Looks amazing, great value for money.",1,1,39,Intimates,Outerwear,Pants
+21,101,65,Highly recommend,"Looks amazing, great value for money.",4,1,37,Intimates,Dresses,Dresses
+22,163,38,Too small,"I didn’t like the quality, it feels cheap.",4,1,32,General Petite,Bottoms,Pants
+23,159,56,Highly recommend,"Love the color and design, very trendy.",5,0,27,General Petite,Outerwear,Jackets
+24,120,53,Not as expected,"Looks amazing, great value for money.",5,1,0,General,Tops,Dresses
+25,132,50,Poor quality,"Excellent purchase, will buy again.",5,1,7,General,Dresses,Blouses
+26,175,47,Highly recommend,"Not worth the price, very disappointed.",3,0,36,General,Tops,Dresses
+27,157,54,Great fit,"I didn’t like the quality, it feels cheap.",4,1,31,General,Tops,Dresses
+28,121,40,Too small,"Looks amazing, great value for money.",3,0,47,Intimates,Bottoms,Dresses
+29,188,27,Love it,"I didn’t like the quality, it feels cheap.",1,1,42,Intimates,Tops,Jackets
+30,148,22,Poor quality,"The dress was smaller than expected, order one size up.",5,0,36,General Petite,Bottoms,Blouses
+31,190,53,Great fit,The material is very comfortable and fits perfectly.,3,1,3,General,Outerwear,Dresses
+32,158,51,Perfect dress,"Not worth the price, very disappointed.",3,1,29,General,Dresses,Blouses
+33,141,69,Not as expected,"I didn’t like the quality, it feels cheap.",1,1,5,General Petite,Tops,Jackets
+34,191,48,Too small,The material is very comfortable and fits perfectly.,2,1,45,General,Dresses,Pants
+35,159,27,Poor quality,"Looks amazing, great value for money.",4,1,18,General,Tops,Dresses
+36,179,36,Poor quality,The material is very comfortable and fits perfectly.,2,1,31,General,Dresses,Blouses
+37,114,49,Love it,"Not worth the price, very disappointed.",5,0,8,General,Tops,Blouses
+38,161,18,Love it,"I didn’t like the quality, it feels cheap.",3,1,11,General,Tops,Jackets
+39,161,22,Perfect dress,"The dress was smaller than expected, order one size up.",1,0,10,General Petite,Tops,Dresses
+40,146,62,Not as expected,"Love the color and design, very trendy.",1,1,45,General,Tops,Pants
+41,161,21,Perfect dress,"Looks amazing, great value for money.",4,1,15,General Petite,Tops,Blouses
+42,150,33,Great fit,"I didn’t like the quality, it feels cheap.",2,1,0,General,Tops,Dresses
+43,154,41,Great fit,"Not worth the price, very disappointed.",4,1,44,Intimates,Tops,Pants
+44,163,33,Perfect dress,"Looks amazing, great value for money.",3,1,20,Intimates,Tops,Blouses
+45,102,19,Not as expected,"Excellent purchase, will buy again.",4,1,29,Intimates,Tops,Blouses
+46,150,66,Perfect dress,The material is very comfortable and fits perfectly.,1,0,12,Intimates,Dresses,Pants
+47,106,45,Not as expected,"Love the color and design, very trendy.",1,1,33,General Petite,Bottoms,Pants
+48,120,49,Not as expected,"Not worth the price, very disappointed.",5,0,3,General Petite,Tops,Jackets
+49,172,44,Highly recommend,"Excellent purchase, will buy again.",5,1,27,General,Bottoms,Dresses
+50,138,37,Too small,"I didn’t like the quality, it feels cheap.",3,1,37,Intimates,Tops,Dresses
+51,117,41,Not as expected,"The dress was smaller than expected, order one size up.",2,1,30,General Petite,Tops,Jackets
+52,103,29,Love it,"Looks amazing, great value for money.",4,0,26,General,Dresses,Blouses
+53,188,67,Not as expected,The material is very comfortable and fits perfectly.,3,1,4,General,Outerwear,Pants
+54,159,52,Not as expected,"Looks amazing, great value for money.",5,0,24,General Petite,Outerwear,Pants
+55,113,50,Not as expected,"Love the color and design, very trendy.",4,1,2,Intimates,Dresses,Pants
+56,108,50,Highly recommend,"I didn’t like the quality, it feels cheap.",5,0,32,General,Bottoms,Blouses
+57,189,68,Highly recommend,"Looks amazing, great value for money.",4,1,3,Intimates,Outerwear,Pants
+58,152,60,Great fit,The material is very comfortable and fits perfectly.,2,1,24,Intimates,Dresses,Pants
+59,101,54,Highly recommend,"I didn’t like the quality, it feels cheap.",3,1,19,Intimates,Dresses,Jackets
+60,183,29,Love it,"Looks amazing, great value for money.",4,1,33,General,Outerwear,Blouses
+61,191,20,Love it,"The dress was smaller than expected, order one size up.",1,1,25,Intimates,Bottoms,Dresses
+62,159,18,Highly recommend,"Not worth the price, very disappointed.",1,1,4,General,Dresses,Jackets
+63,170,50,Perfect dress,"I didn’t like the quality, it feels cheap.",4,1,34,Intimates,Tops,Jackets
+64,143,57,Too small,"Not worth the price, very disappointed.",4,1,27,General,Bottoms,Dresses
+65,107,27,Highly recommend,"I didn’t like the quality, it feels cheap.",4,1,28,Intimates,Bottoms,Jackets
+66,146,60,Not as expected,"The dress was smaller than expected, order one size up.",1,1,8,General Petite,Outerwear,Blouses
+67,134,61,Poor quality,"Not worth the price, very disappointed.",1,1,37,Intimates,Outerwear,Pants
+68,177,46,Too small,"Excellent purchase, will buy again.",4,0,49,Intimates,Tops,Blouses
+69,180,30,Too small,The material is very comfortable and fits perfectly.,5,1,5,General,Dresses,Dresses
+70,135,29,Love it,"Excellent purchase, will buy again.",5,0,18,General,Outerwear,Dresses
+71,149,48,Too small,"Looks amazing, great value for money.",2,1,43,Intimates,Outerwear,Jackets
+72,103,63,Highly recommend,"The dress was smaller than expected, order one size up.",3,1,10,General Petite,Bottoms,Blouses
+73,101,19,Not as expected,"Excellent purchase, will buy again.",5,1,1,General Petite,Outerwear,Blouses
+74,105,68,Not as expected,"I didn’t like the quality, it feels cheap.",1,1,46,General,Outerwear,Dresses
+75,153,67,Great fit,"Looks amazing, great value for money.",5,1,43,General Petite,Outerwear,Blouses
+76,103,52,Not as expected,"Looks amazing, great value for money.",2,1,43,Intimates,Outerwear,Dresses
+77,153,40,Not as expected,"Excellent purchase, will buy again.",2,1,8,General,Bottoms,Blouses
+78,192,34,Love it,"Excellent purchase, will buy again.",3,0,20,Intimates,Tops,Blouses
+79,162,43,Not as expected,"The dress was smaller than expected, order one size up.",5,1,23,General,Tops,Blouses
+80,117,25,Great fit,The material is very comfortable and fits perfectly.,1,0,33,General,Dresses,Dresses
+81,189,46,Poor quality,"Excellent purchase, will buy again.",1,1,21,General,Outerwear,Jackets
+82,143,43,Highly recommend,"Love the color and design, very trendy.",4,1,2,General,Bottoms,Blouses
+83,133,27,Love it,"Excellent purchase, will buy again.",1,1,11,General Petite,Dresses,Dresses
+84,173,43,Poor quality,"Not worth the price, very disappointed.",3,1,27,Intimates,Dresses,Dresses
+85,161,51,Love it,"I didn’t like the quality, it feels cheap.",3,1,29,Intimates,Tops,Blouses
+86,199,68,Perfect dress,"Love the color and design, very trendy.",1,0,25,Intimates,Bottoms,Blouses
+87,113,58,Too small,"Love the color and design, very trendy.",1,1,47,General,Bottoms,Jackets
+88,194,24,Perfect dress,"Not worth the price, very disappointed.",4,1,20,General Petite,Bottoms,Dresses
+89,147,21,Not as expected,"Not worth the price, very disappointed.",1,1,27,Intimates,Tops,Dresses
+90,114,67,Poor quality,"Looks amazing, great value for money.",4,1,25,General Petite,Tops,Pants
+91,171,62,Not as expected,The material is very comfortable and fits perfectly.,4,1,32,General,Tops,Dresses
+92,177,28,Too small,"I didn’t like the quality, it feels cheap.",1,0,20,Intimates,Tops,Jackets
+93,186,46,Love it,"The dress was smaller than expected, order one size up.",2,1,34,General Petite,Tops,Pants
+94,161,53,Too small,"Love the color and design, very trendy.",2,1,33,General,Outerwear,Pants
+95,139,42,Great fit,"The dress was smaller than expected, order one size up.",4,0,40,General Petite,Outerwear,Pants
+96,184,38,Too small,"Excellent purchase, will buy again.",1,1,46,Intimates,Bottoms,Blouses
+97,179,53,Great fit,"Excellent purchase, will buy again.",2,0,17,Intimates,Dresses,Blouses
+98,181,27,Too small,"The dress was smaller than expected, order one size up.",1,0,10,General,Bottoms,Dresses
+99,152,54,Highly recommend,"Excellent purchase, will buy again.",1,0,22,General,Dresses,Pants
+100,123,26,Great fit,The material is very comfortable and fits perfectly.,1,1,47,General,Tops,Jackets
+101,125,41,Poor quality,"Not worth the price, very disappointed.",5,1,21,General Petite,Dresses,Blouses
+102,188,52,Not as expected,"Excellent purchase, will buy again.",1,1,16,General Petite,Bottoms,Jackets
+103,159,66,Not as expected,"Looks amazing, great value for money.",5,1,4,General Petite,Bottoms,Jackets
+104,140,52,Perfect dress,"Excellent purchase, will buy again.",4,1,43,General,Dresses,Blouses
+105,128,65,Not as expected,"I didn’t like the quality, it feels cheap.",2,1,10,Intimates,Outerwear,Blouses
+106,114,53,Love it,The material is very comfortable and fits perfectly.,2,1,29,Intimates,Tops,Blouses
+107,144,35,Highly recommend,"I didn’t like the quality, it feels cheap.",2,0,14,General Petite,Tops,Blouses
+108,164,66,Too small,"I didn’t like the quality, it feels cheap.",2,1,26,General Petite,Bottoms,Pants
+109,188,56,Perfect dress,"Looks amazing, great value for money.",2,0,34,Intimates,Outerwear,Pants
+110,170,49,Love it,The material is very comfortable and fits perfectly.,2,1,32,Intimates,Dresses,Pants
+111,108,41,Love it,The material is very comfortable and fits perfectly.,2,1,19,General Petite,Tops,Pants
+112,187,40,Great fit,The material is very comfortable and fits perfectly.,4,0,15,General Petite,Outerwear,Dresses
+113,100,49,Not as expected,The material is very comfortable and fits perfectly.,1,0,33,Intimates,Tops,Pants
+114,107,54,Poor quality,The material is very comfortable and fits perfectly.,3,1,1,General,Outerwear,Blouses
+115,187,29,Poor quality,"Looks amazing, great value for money.",5,1,34,General Petite,Outerwear,Jackets
+116,162,66,Perfect dress,"Excellent purchase, will buy again.",3,0,39,Intimates,Bottoms,Pants
+117,110,30,Highly recommend,"I didn’t like the quality, it feels cheap.",3,1,27,Intimates,Tops,Dresses
+118,180,40,Poor quality,The material is very comfortable and fits perfectly.,1,0,46,Intimates,Dresses,Blouses
+119,107,42,Too small,"Love the color and design, very trendy.",1,1,38,Intimates,Bottoms,Jackets
+120,134,52,Poor quality,"Excellent purchase, will buy again.",1,1,5,General,Bottoms,Jackets
+121,134,58,Perfect dress,"Excellent purchase, will buy again.",2,0,8,Intimates,Dresses,Pants
+122,132,47,Poor quality,"I didn’t like the quality, it feels cheap.",4,0,19,General Petite,Bottoms,Jackets
+123,104,34,Too small,"Looks amazing, great value for money.",2,0,0,General,Outerwear,Pants
+124,140,66,Great fit,"The dress was smaller than expected, order one size up.",4,1,7,Intimates,Outerwear,Pants
+125,127,37,Highly recommend,"The dress was smaller than expected, order one size up.",4,0,22,General,Tops,Blouses
+126,106,65,Perfect dress,"Excellent purchase, will buy again.",3,1,2,General Petite,Tops,Blouses
+127,172,42,Great fit,"Not worth the price, very disappointed.",3,0,3,Intimates,Dresses,Dresses
+128,171,39,Great fit,"Not worth the price, very disappointed.",4,1,24,General Petite,Tops,Blouses
+129,111,30,Great fit,"I didn’t like the quality, it feels cheap.",4,1,46,Intimates,Outerwear,Blouses
+130,133,36,Love it,"The dress was smaller than expected, order one size up.",2,1,37,Intimates,Dresses,Pants
+131,132,66,Highly recommend,"Excellent purchase, will buy again.",2,1,14,Intimates,Dresses,Blouses
+132,147,53,Not as expected,"Looks amazing, great value for money.",3,1,20,Intimates,Tops,Pants
+133,122,29,Highly recommend,"The dress was smaller than expected, order one size up.",1,1,34,Intimates,Outerwear,Pants
+134,161,58,Love it,"Excellent purchase, will buy again.",4,1,45,General,Dresses,Blouses
+135,187,36,Not as expected,"Excellent purchase, will buy again.",2,1,13,Intimates,Outerwear,Dresses
+136,136,29,Highly recommend,The material is very comfortable and fits perfectly.,3,0,35,Intimates,Outerwear,Dresses
+137,198,26,Great fit,"Looks amazing, great value for money.",2,1,11,General,Outerwear,Jackets
+138,143,24,Perfect dress,The material is very comfortable and fits perfectly.,4,1,16,General,Tops,Jackets
+139,185,45,Not as expected,"I didn’t like the quality, it feels cheap.",4,0,38,General,Bottoms,Blouses
+140,190,31,Too small,The material is very comfortable and fits perfectly.,5,1,8,General,Bottoms,Dresses
+141,134,48,Too small,"Love the color and design, very trendy.",1,1,34,General,Dresses,Pants
+142,164,69,Poor quality,The material is very comfortable and fits perfectly.,5,1,12,General,Outerwear,Jackets
+143,198,36,Not as expected,"Love the color and design, very trendy.",3,1,14,Intimates,Tops,Pants
+144,146,64,Perfect dress,"The dress was smaller than expected, order one size up.",2,1,17,Intimates,Outerwear,Jackets
+145,177,33,Love it,"Not worth the price, very disappointed.",3,0,32,General Petite,Outerwear,Blouses
+146,102,22,Great fit,"Excellent purchase, will buy again.",4,1,5,Intimates,Tops,Dresses
+147,100,52,Poor quality,"Love the color and design, very trendy.",5,1,26,Intimates,Bottoms,Jackets
+148,104,29,Too small,"Looks amazing, great value for money.",5,0,22,General,Outerwear,Dresses
+149,189,42,Love it,The material is very comfortable and fits perfectly.,5,0,26,General,Outerwear,Pants
+150,113,69,Love it,"Love the color and design, very trendy.",3,1,33,Intimates,Bottoms,Blouses
+151,126,38,Great fit,"Looks amazing, great value for money.",4,0,45,General Petite,Tops,Dresses
+152,108,53,Not as expected,"Not worth the price, very disappointed.",2,1,37,General,Dresses,Blouses
+153,178,40,Too small,"Not worth the price, very disappointed.",2,0,13,Intimates,Bottoms,Dresses
+154,114,33,Perfect dress,The material is very comfortable and fits perfectly.,3,0,35,Intimates,Dresses,Pants
+155,189,56,Love it,"I didn’t like the quality, it feels cheap.",5,0,7,General Petite,Dresses,Pants
+156,141,62,Great fit,The material is very comfortable and fits perfectly.,1,1,34,General Petite,Bottoms,Blouses
+157,176,59,Perfect dress,"The dress was smaller than expected, order one size up.",3,1,18,General,Outerwear,Pants
+158,150,56,Not as expected,"Love the color and design, very trendy.",3,1,29,General Petite,Dresses,Jackets
+159,162,31,Too small,"Excellent purchase, will buy again.",4,1,13,Intimates,Dresses,Dresses
+160,195,48,Not as expected,"I didn’t like the quality, it feels cheap.",2,0,19,Intimates,Tops,Pants
+161,151,22,Love it,The material is very comfortable and fits perfectly.,3,1,48,General Petite,Outerwear,Jackets
+162,195,52,Perfect dress,"Looks amazing, great value for money.",3,1,24,General Petite,Dresses,Blouses
+163,103,40,Perfect dress,"I didn’t like the quality, it feels cheap.",5,1,39,General Petite,Tops,Jackets
+164,193,46,Perfect dress,"Love the color and design, very trendy.",5,0,23,General Petite,Outerwear,Blouses
+165,122,60,Love it,"I didn’t like the quality, it feels cheap.",1,1,13,General,Bottoms,Blouses
+166,114,28,Love it,"Love the color and design, very trendy.",4,0,25,General Petite,Bottoms,Dresses
+167,142,35,Not as expected,The material is very comfortable and fits perfectly.,1,1,37,General,Tops,Dresses
+168,128,64,Poor quality,"Love the color and design, very trendy.",5,1,22,Intimates,Bottoms,Jackets
+169,135,29,Not as expected,"I didn’t like the quality, it feels cheap.",2,1,21,General Petite,Dresses,Dresses
+170,112,26,Too small,"Looks amazing, great value for money.",5,1,47,General,Outerwear,Dresses
+171,131,27,Great fit,"Not worth the price, very disappointed.",4,1,18,General Petite,Dresses,Dresses
+172,170,61,Perfect dress,"I didn’t like the quality, it feels cheap.",5,1,45,Intimates,Dresses,Jackets
+173,158,34,Poor quality,"Love the color and design, very trendy.",4,1,2,Intimates,Bottoms,Pants
+174,185,55,Great fit,"Not worth the price, very disappointed.",4,1,41,Intimates,Dresses,Dresses
+175,127,24,Poor quality,"Love the color and design, very trendy.",4,1,18,General Petite,Bottoms,Dresses
+176,165,63,Highly recommend,"Looks amazing, great value for money.",4,1,8,General Petite,Outerwear,Jackets
+177,141,30,Not as expected,"Love the color and design, very trendy.",4,1,27,General,Outerwear,Pants
+178,144,57,Love it,The material is very comfortable and fits perfectly.,2,1,19,Intimates,Dresses,Dresses
+179,161,59,Perfect dress,"Excellent purchase, will buy again.",1,1,44,General Petite,Tops,Blouses
+180,156,26,Not as expected,"I didn’t like the quality, it feels cheap.",3,0,6,Intimates,Bottoms,Jackets
+181,105,67,Great fit,"Excellent purchase, will buy again.",1,1,13,Intimates,Bottoms,Dresses
+182,127,44,Highly recommend,"Love the color and design, very trendy.",4,0,8,General,Dresses,Dresses
+183,127,19,Highly recommend,"Looks amazing, great value for money.",2,1,18,General,Bottoms,Blouses
+184,143,22,Highly recommend,"I didn’t like the quality, it feels cheap.",5,1,46,General,Bottoms,Blouses
+185,183,46,Great fit,"Love the color and design, very trendy.",2,1,13,General,Tops,Jackets
+186,129,54,Great fit,"Not worth the price, very disappointed.",4,1,37,Intimates,Tops,Jackets
+187,161,55,Great fit,"The dress was smaller than expected, order one size up.",2,1,35,General,Dresses,Blouses
+188,174,36,Great fit,"Love the color and design, very trendy.",2,1,39,General,Tops,Jackets
+189,191,25,Highly recommend,"Excellent purchase, will buy again.",4,1,16,General,Dresses,Blouses
+190,188,65,Highly recommend,"I didn’t like the quality, it feels cheap.",2,0,29,General,Outerwear,Dresses
+191,161,62,Poor quality,"Excellent purchase, will buy again.",3,1,8,Intimates,Dresses,Blouses
+192,196,18,Not as expected,"I didn’t like the quality, it feels cheap.",3,0,32,General,Outerwear,Blouses
+193,100,39,Perfect dress,"Love the color and design, very trendy.",2,1,24,Intimates,Dresses,Pants
+194,126,69,Love it,The material is very comfortable and fits perfectly.,5,1,13,General Petite,Bottoms,Blouses
+195,161,34,Highly recommend,"Not worth the price, very disappointed.",4,1,10,Intimates,Tops,Blouses
+196,176,24,Love it,"Love the color and design, very trendy.",3,0,34,Intimates,Outerwear,Pants
+197,102,42,Not as expected,"Excellent purchase, will buy again.",5,0,40,General,Dresses,Jackets
+198,169,62,Not as expected,"The dress was smaller than expected, order one size up.",2,1,13,General Petite,Tops,Pants
+199,171,21,Love it,"The dress was smaller than expected, order one size up.",5,0,29,General Petite,Dresses,Dresses
+200,126,53,Highly recommend,"Looks amazing, great value for money.",1,0,40,General Petite,Tops,Pants
+201,108,23,Love it,"I didn’t like the quality, it feels cheap.",3,0,3,General Petite,Tops,Dresses
+202,161,48,Poor quality,"Excellent purchase, will buy again.",2,1,3,Intimates,Dresses,Jackets
+203,136,36,Too small,"Looks amazing, great value for money.",4,1,27,General Petite,Outerwear,Pants
+204,196,61,Highly recommend,"Excellent purchase, will buy again.",2,1,7,Intimates,Outerwear,Pants
+205,150,56,Highly recommend,"I didn’t like the quality, it feels cheap.",4,0,1,Intimates,Bottoms,Jackets
+206,143,44,Perfect dress,"Love the color and design, very trendy.",2,1,40,Intimates,Tops,Dresses
+207,123,27,Great fit,"Love the color and design, very trendy.",5,1,45,General Petite,Bottoms,Pants
+208,178,43,Too small,"The dress was smaller than expected, order one size up.",5,1,21,General,Bottoms,Dresses
+209,158,36,Not as expected,"Love the color and design, very trendy.",5,0,40,General,Dresses,Pants
+210,131,56,Highly recommend,"Love the color and design, very trendy.",1,0,15,General Petite,Dresses,Blouses
+211,195,20,Love it,The material is very comfortable and fits perfectly.,4,0,28,General,Dresses,Pants
+212,187,62,Too small,"The dress was smaller than expected, order one size up.",5,1,48,General,Tops,Jackets
+213,151,30,Perfect dress,"Looks amazing, great value for money.",1,1,47,Intimates,Dresses,Jackets
+214,161,67,Not as expected,"Not worth the price, very disappointed.",4,0,29,Intimates,Dresses,Dresses
+215,157,45,Great fit,The material is very comfortable and fits perfectly.,2,0,11,General Petite,Tops,Pants
+216,151,37,Great fit,"Looks amazing, great value for money.",1,0,34,General Petite,Tops,Dresses
+217,111,45,Perfect dress,"I didn’t like the quality, it feels cheap.",3,1,10,General,Outerwear,Dresses
+218,138,25,Perfect dress,The material is very comfortable and fits perfectly.,1,0,45,Intimates,Dresses,Blouses
+219,101,58,Love it,"Looks amazing, great value for money.",1,1,49,General Petite,Dresses,Blouses
+220,102,56,Highly recommend,"I didn’t like the quality, it feels cheap.",4,1,20,General Petite,Dresses,Jackets
+221,155,18,Great fit,"The dress was smaller than expected, order one size up.",2,1,20,General Petite,Outerwear,Dresses
+222,180,20,Not as expected,"Not worth the price, very disappointed.",3,0,4,General Petite,Dresses,Jackets
+223,158,30,Too small,"I didn’t like the quality, it feels cheap.",5,0,47,General Petite,Outerwear,Pants
+224,101,45,Not as expected,"Love the color and design, very trendy.",5,1,19,General Petite,Bottoms,Dresses
+225,101,66,Poor quality,"Excellent purchase, will buy again.",1,1,36,General,Outerwear,Dresses
+226,191,42,Poor quality,"I didn’t like the quality, it feels cheap.",4,1,2,Intimates,Bottoms,Pants
+227,153,50,Perfect dress,"I didn’t like the quality, it feels cheap.",4,1,43,Intimates,Dresses,Pants
+228,186,55,Love it,"Not worth the price, very disappointed.",5,0,32,General Petite,Bottoms,Jackets
+229,195,23,Poor quality,"Excellent purchase, will buy again.",3,1,8,Intimates,Outerwear,Jackets
+230,196,61,Great fit,"Love the color and design, very trendy.",2,1,8,Intimates,Tops,Pants
+231,100,62,Not as expected,"Looks amazing, great value for money.",3,0,3,Intimates,Bottoms,Jackets
+232,118,49,Not as expected,"Looks amazing, great value for money.",2,1,34,General Petite,Bottoms,Pants
+233,101,62,Perfect dress,"I didn’t like the quality, it feels cheap.",5,1,16,General Petite,Dresses,Dresses
+234,152,64,Highly recommend,"Excellent purchase, will buy again.",2,1,33,Intimates,Outerwear,Dresses
+235,143,38,Highly recommend,"Excellent purchase, will buy again.",4,1,23,Intimates,Bottoms,Blouses
+236,189,33,Too small,"Love the color and design, very trendy.",1,1,31,General Petite,Bottoms,Dresses
+237,131,38,Perfect dress,"Not worth the price, very disappointed.",1,1,0,General,Bottoms,Pants
+238,169,28,Too small,"The dress was smaller than expected, order one size up.",5,0,7,Intimates,Bottoms,Jackets
+239,131,54,Highly recommend,"Looks amazing, great value for money.",4,1,44,General,Tops,Blouses
+240,167,53,Perfect dress,"Not worth the price, very disappointed.",3,1,22,Intimates,Outerwear,Jackets
+241,154,52,Perfect dress,The material is very comfortable and fits perfectly.,4,0,46,General,Dresses,Pants
+242,174,36,Perfect dress,"Looks amazing, great value for money.",1,1,39,General,Dresses,Dresses
+243,155,37,Highly recommend,"Not worth the price, very disappointed.",1,1,11,General,Tops,Blouses
+244,116,35,Too small,"Looks amazing, great value for money.",4,1,11,General Petite,Outerwear,Pants
+245,137,64,Too small,"The dress was smaller than expected, order one size up.",4,1,45,General,Bottoms,Blouses
+246,123,58,Perfect dress,The material is very comfortable and fits perfectly.,1,1,46,General,Tops,Blouses
+247,168,66,Poor quality,"The dress was smaller than expected, order one size up.",3,0,14,General,Outerwear,Dresses
+248,197,31,Love it,"Love the color and design, very trendy.",5,0,40,Intimates,Bottoms,Pants
+249,169,32,Highly recommend,The material is very comfortable and fits perfectly.,5,0,18,General,Tops,Jackets
+250,185,48,Love it,"I didn’t like the quality, it feels cheap.",4,1,25,Intimates,Outerwear,Blouses
+251,110,18,Love it,"Not worth the price, very disappointed.",5,1,28,General,Dresses,Blouses
+252,115,20,Too small,The material is very comfortable and fits perfectly.,1,0,21,General,Dresses,Jackets
+253,196,33,Too small,"Love the color and design, very trendy.",1,1,39,General Petite,Outerwear,Pants
+254,172,40,Poor quality,"Love the color and design, very trendy.",4,1,20,Intimates,Dresses,Blouses
+255,158,28,Love it,"The dress was smaller than expected, order one size up.",4,1,37,General,Outerwear,Blouses
+256,169,29,Love it,"Looks amazing, great value for money.",4,1,19,Intimates,Bottoms,Blouses
+257,179,27,Perfect dress,The material is very comfortable and fits perfectly.,3,0,28,Intimates,Outerwear,Pants
+258,192,49,Too small,"Not worth the price, very disappointed.",5,1,3,General Petite,Bottoms,Pants
+259,102,33,Love it,The material is very comfortable and fits perfectly.,4,1,6,General Petite,Tops,Jackets
+260,119,25,Not as expected,"Excellent purchase, will buy again.",2,1,27,General Petite,Outerwear,Pants
+261,158,55,Poor quality,"Looks amazing, great value for money.",2,1,27,General Petite,Tops,Pants
+262,135,29,Not as expected,"Not worth the price, very disappointed.",1,1,3,General Petite,Dresses,Dresses
+263,118,41,Not as expected,"Not worth the price, very disappointed.",5,1,21,General Petite,Bottoms,Jackets
+264,189,45,Highly recommend,"I didn’t like the quality, it feels cheap.",4,0,11,General Petite,Outerwear,Blouses
+265,166,25,Highly recommend,"The dress was smaller than expected, order one size up.",2,1,44,General Petite,Tops,Pants
+266,118,45,Poor quality,"I didn’t like the quality, it feels cheap.",5,1,2,General,Bottoms,Blouses
+267,119,53,Not as expected,"Not worth the price, very disappointed.",1,1,21,Intimates,Bottoms,Blouses
+268,195,43,Love it,"Looks amazing, great value for money.",3,0,43,General Petite,Dresses,Dresses
+269,170,25,Too small,The material is very comfortable and fits perfectly.,5,0,1,General Petite,Dresses,Pants
+270,151,67,Poor quality,The material is very comfortable and fits perfectly.,5,0,23,Intimates,Bottoms,Jackets
+271,132,45,Perfect dress,"Looks amazing, great value for money.",3,1,33,General,Bottoms,Pants
+272,139,45,Not as expected,"Not worth the price, very disappointed.",5,1,26,Intimates,Outerwear,Blouses
+273,138,54,Poor quality,"Love the color and design, very trendy.",1,0,40,Intimates,Bottoms,Jackets
+274,181,58,Great fit,The material is very comfortable and fits perfectly.,1,1,0,General Petite,Outerwear,Pants
+275,100,53,Great fit,"Love the color and design, very trendy.",3,1,7,Intimates,Bottoms,Blouses
+276,110,44,Highly recommend,The material is very comfortable and fits perfectly.,4,1,22,Intimates,Dresses,Blouses
+277,191,34,Too small,The material is very comfortable and fits perfectly.,2,1,37,General Petite,Outerwear,Dresses
+278,156,26,Love it,"The dress was smaller than expected, order one size up.",4,1,5,General Petite,Tops,Dresses
+279,188,50,Too small,"The dress was smaller than expected, order one size up.",5,1,21,General Petite,Dresses,Dresses
+280,149,37,Too small,"Excellent purchase, will buy again.",2,0,24,General Petite,Outerwear,Blouses
+281,122,30,Too small,"I didn’t like the quality, it feels cheap.",3,1,17,Intimates,Outerwear,Pants
+282,130,45,Too small,"Looks amazing, great value for money.",3,1,16,Intimates,Tops,Dresses
+283,193,65,Perfect dress,"Looks amazing, great value for money.",2,1,11,General,Outerwear,Pants
+284,141,46,Perfect dress,"Looks amazing, great value for money.",1,1,5,General,Bottoms,Dresses
+285,198,30,Highly recommend,"Excellent purchase, will buy again.",2,1,25,Intimates,Tops,Jackets
+286,106,63,Poor quality,"The dress was smaller than expected, order one size up.",5,0,26,General,Dresses,Jackets
+287,115,52,Great fit,"Not worth the price, very disappointed.",1,1,7,Intimates,Dresses,Dresses
+288,189,23,Too small,"Love the color and design, very trendy.",3,0,18,General,Bottoms,Blouses
+289,159,35,Highly recommend,"Love the color and design, very trendy.",2,0,41,General Petite,Dresses,Dresses
+290,101,68,Poor quality,"Not worth the price, very disappointed.",4,1,0,General,Outerwear,Dresses
+291,100,22,Great fit,"Excellent purchase, will buy again.",4,1,28,General Petite,Outerwear,Blouses
+292,147,64,Not as expected,"Not worth the price, very disappointed.",5,0,44,General Petite,Bottoms,Jackets
+293,111,42,Love it,"Looks amazing, great value for money.",4,1,48,General Petite,Dresses,Pants
+294,168,19,Perfect dress,"I didn’t like the quality, it feels cheap.",2,1,34,General Petite,Dresses,Dresses
+295,136,27,Not as expected,The material is very comfortable and fits perfectly.,2,0,39,General,Bottoms,Blouses
+296,131,47,Great fit,"Love the color and design, very trendy.",4,1,13,Intimates,Tops,Dresses
+297,108,67,Not as expected,"The dress was smaller than expected, order one size up.",2,1,34,General Petite,Dresses,Blouses
+298,198,62,Love it,"The dress was smaller than expected, order one size up.",5,1,47,General,Tops,Pants
+299,118,22,Highly recommend,"Excellent purchase, will buy again.",1,0,44,General Petite,Dresses,Pants
+300,147,50,Great fit,"The dress was smaller than expected, order one size up.",5,1,19,General,Dresses,Jackets
+301,179,18,Not as expected,"Looks amazing, great value for money.",5,1,48,General,Dresses,Blouses
+302,102,35,Perfect dress,"Love the color and design, very trendy.",2,1,12,General,Dresses,Blouses
+303,119,49,Perfect dress,"Not worth the price, very disappointed.",1,0,37,Intimates,Outerwear,Jackets
+304,123,64,Poor quality,"Looks amazing, great value for money.",2,1,48,General,Tops,Jackets
+305,153,66,Not as expected,"Excellent purchase, will buy again.",3,0,45,General,Tops,Blouses
+306,132,28,Too small,"Looks amazing, great value for money.",2,1,48,Intimates,Dresses,Jackets
+307,123,38,Not as expected,"Not worth the price, very disappointed.",2,0,7,Intimates,Dresses,Pants
+308,174,43,Highly recommend,"I didn’t like the quality, it feels cheap.",2,1,42,General,Tops,Dresses
+309,171,42,Great fit,"Excellent purchase, will buy again.",1,1,19,Intimates,Outerwear,Pants
+310,135,39,Great fit,"I didn’t like the quality, it feels cheap.",2,1,32,General Petite,Bottoms,Jackets
+311,137,44,Highly recommend,The material is very comfortable and fits perfectly.,1,0,25,General Petite,Bottoms,Blouses
+312,183,66,Not as expected,"I didn’t like the quality, it feels cheap.",4,1,38,Intimates,Tops,Blouses
+313,198,30,Highly recommend,The material is very comfortable and fits perfectly.,3,1,20,Intimates,Dresses,Pants
+314,188,50,Love it,The material is very comfortable and fits perfectly.,1,1,48,General,Dresses,Blouses
+315,198,51,Highly recommend,"I didn’t like the quality, it feels cheap.",4,1,41,Intimates,Outerwear,Jackets
+316,124,58,Perfect dress,"Excellent purchase, will buy again.",1,1,42,General,Bottoms,Pants
+317,192,52,Highly recommend,"Not worth the price, very disappointed.",1,1,40,General Petite,Outerwear,Blouses
+318,117,18,Great fit,"Looks amazing, great value for money.",3,1,8,Intimates,Bottoms,Dresses
+319,181,38,Perfect dress,"Looks amazing, great value for money.",5,1,23,General,Tops,Dresses
+320,165,65,Great fit,"Not worth the price, very disappointed.",5,1,36,General,Bottoms,Jackets
+321,153,23,Poor quality,"Love the color and design, very trendy.",1,1,48,General Petite,Outerwear,Blouses
+322,134,45,Too small,"Love the color and design, very trendy.",2,1,40,Intimates,Outerwear,Jackets
+323,179,34,Great fit,The material is very comfortable and fits perfectly.,4,0,16,General Petite,Outerwear,Pants
+324,160,22,Perfect dress,The material is very comfortable and fits perfectly.,2,1,23,General,Tops,Dresses
+325,140,48,Poor quality,"Excellent purchase, will buy again.",2,1,20,General,Bottoms,Pants
+326,199,22,Great fit,"The dress was smaller than expected, order one size up.",1,1,38,Intimates,Bottoms,Blouses
+327,132,55,Love it,"I didn’t like the quality, it feels cheap.",1,0,40,General,Outerwear,Jackets
+328,167,20,Highly recommend,The material is very comfortable and fits perfectly.,1,1,38,Intimates,Bottoms,Jackets
+329,132,40,Too small,"Looks amazing, great value for money.",1,1,12,General Petite,Dresses,Jackets
+330,113,54,Great fit,"Excellent purchase, will buy again.",5,1,10,Intimates,Dresses,Pants
+331,120,54,Poor quality,"I didn’t like the quality, it feels cheap.",1,0,45,Intimates,Dresses,Dresses
+332,147,27,Love it,"Excellent purchase, will buy again.",5,1,18,General,Bottoms,Pants
+333,119,27,Not as expected,"I didn’t like the quality, it feels cheap.",5,1,10,General,Tops,Pants
+334,107,36,Poor quality,"I didn’t like the quality, it feels cheap.",1,1,12,Intimates,Tops,Blouses
+335,106,34,Highly recommend,"Not worth the price, very disappointed.",3,1,45,General,Tops,Blouses
+336,166,38,Poor quality,The material is very comfortable and fits perfectly.,4,1,44,General,Tops,Blouses
+337,116,31,Love it,"Excellent purchase, will buy again.",2,1,0,General,Dresses,Dresses
+338,132,26,Poor quality,"Excellent purchase, will buy again.",5,0,39,Intimates,Dresses,Dresses
+339,147,63,Love it,"Not worth the price, very disappointed.",4,1,43,General,Outerwear,Blouses
+340,175,18,Great fit,"Looks amazing, great value for money.",3,1,18,Intimates,Bottoms,Blouses
+341,158,68,Love it,"Looks amazing, great value for money.",2,0,11,General,Bottoms,Dresses
+342,185,62,Love it,"Love the color and design, very trendy.",2,0,7,General Petite,Tops,Jackets
+343,121,30,Too small,The material is very comfortable and fits perfectly.,5,1,7,General,Dresses,Dresses
+344,129,21,Love it,The material is very comfortable and fits perfectly.,1,1,44,General,Tops,Dresses
+345,137,18,Love it,"The dress was smaller than expected, order one size up.",3,1,11,Intimates,Outerwear,Dresses
+346,150,66,Not as expected,"Not worth the price, very disappointed.",5,1,47,Intimates,Bottoms,Blouses
+347,153,57,Great fit,"Looks amazing, great value for money.",3,1,32,General,Bottoms,Jackets
+348,107,49,Highly recommend,"I didn’t like the quality, it feels cheap.",1,1,44,General Petite,Tops,Dresses
+349,126,51,Too small,"Excellent purchase, will buy again.",1,0,25,General,Outerwear,Blouses
+350,126,45,Not as expected,The material is very comfortable and fits perfectly.,5,1,38,General,Bottoms,Pants
+351,197,48,Perfect dress,"Excellent purchase, will buy again.",1,1,27,General Petite,Outerwear,Pants
+352,120,25,Great fit,"Excellent purchase, will buy again.",4,0,4,Intimates,Outerwear,Dresses
+353,129,56,Great fit,"The dress was smaller than expected, order one size up.",2,0,7,General,Tops,Pants
+354,196,43,Perfect dress,"Looks amazing, great value for money.",5,1,24,Intimates,Dresses,Jackets
+355,127,51,Highly recommend,The material is very comfortable and fits perfectly.,3,1,26,Intimates,Tops,Pants
+356,163,20,Love it,"Excellent purchase, will buy again.",4,1,45,General Petite,Dresses,Pants
+357,196,67,Not as expected,The material is very comfortable and fits perfectly.,5,1,22,General Petite,Outerwear,Jackets
+358,168,29,Poor quality,"I didn’t like the quality, it feels cheap.",1,1,29,Intimates,Dresses,Dresses
+359,160,18,Too small,"The dress was smaller than expected, order one size up.",1,1,44,General,Outerwear,Dresses
+360,147,61,Poor quality,"I didn’t like the quality, it feels cheap.",1,1,46,Intimates,Bottoms,Jackets
+361,118,22,Perfect dress,The material is very comfortable and fits perfectly.,1,1,22,General,Bottoms,Jackets
+362,103,47,Great fit,"Love the color and design, very trendy.",3,0,48,General,Bottoms,Jackets
+363,134,47,Highly recommend,The material is very comfortable and fits perfectly.,4,1,46,General Petite,Tops,Pants
+364,163,34,Great fit,"Looks amazing, great value for money.",2,1,19,General,Tops,Jackets
+365,148,65,Too small,"Excellent purchase, will buy again.",3,1,17,General,Outerwear,Blouses
+366,116,64,Great fit,"Excellent purchase, will buy again.",3,1,17,Intimates,Bottoms,Pants
+367,143,40,Great fit,"I didn’t like the quality, it feels cheap.",2,1,1,General Petite,Tops,Dresses
+368,191,32,Too small,"The dress was smaller than expected, order one size up.",2,0,3,General,Bottoms,Dresses
+369,129,54,Not as expected,"Love the color and design, very trendy.",1,1,29,General,Tops,Dresses
+370,192,38,Not as expected,"Not worth the price, very disappointed.",3,1,32,General Petite,Dresses,Pants
+371,145,31,Too small,"Excellent purchase, will buy again.",5,0,35,Intimates,Dresses,Blouses
+372,105,19,Highly recommend,"Looks amazing, great value for money.",2,0,17,General Petite,Bottoms,Jackets
+373,198,28,Perfect dress,"I didn’t like the quality, it feels cheap.",2,1,36,General Petite,Outerwear,Jackets
+374,136,68,Great fit,"I didn’t like the quality, it feels cheap.",4,0,18,General,Tops,Dresses
+375,123,56,Highly recommend,"Not worth the price, very disappointed.",5,1,46,General,Tops,Dresses
+376,192,55,Great fit,"Looks amazing, great value for money.",5,0,27,Intimates,Dresses,Pants
+377,145,51,Perfect dress,"The dress was smaller than expected, order one size up.",2,1,39,General,Dresses,Blouses
+378,152,55,Not as expected,"Looks amazing, great value for money.",1,0,19,General,Outerwear,Jackets
+379,194,67,Highly recommend,"The dress was smaller than expected, order one size up.",4,1,48,General Petite,Outerwear,Pants
+380,198,51,Love it,"Looks amazing, great value for money.",5,1,32,General,Outerwear,Jackets
+381,159,35,Love it,"Looks amazing, great value for money.",2,1,11,Intimates,Bottoms,Dresses
+382,196,47,Love it,The material is very comfortable and fits perfectly.,5,0,14,General Petite,Dresses,Jackets
+383,162,32,Not as expected,"I didn’t like the quality, it feels cheap.",4,1,40,Intimates,Bottoms,Blouses
+384,184,44,Not as expected,"Looks amazing, great value for money.",4,1,38,General Petite,Dresses,Blouses
+385,131,68,Perfect dress,"Not worth the price, very disappointed.",3,1,1,General,Dresses,Dresses
+386,186,51,Great fit,"Looks amazing, great value for money.",2,0,28,General Petite,Tops,Blouses
+387,132,69,Perfect dress,"Excellent purchase, will buy again.",4,0,40,General Petite,Dresses,Blouses
+388,166,55,Perfect dress,"I didn’t like the quality, it feels cheap.",3,1,9,General,Dresses,Pants
+389,117,50,Not as expected,"Excellent purchase, will buy again.",3,1,1,General,Bottoms,Jackets
+390,124,41,Love it,"I didn’t like the quality, it feels cheap.",5,1,10,Intimates,Dresses,Dresses
+391,194,32,Poor quality,"Excellent purchase, will buy again.",5,1,12,Intimates,Bottoms,Dresses
+392,153,47,Great fit,"Looks amazing, great value for money.",3,1,9,General,Outerwear,Dresses
+393,157,59,Not as expected,"Looks amazing, great value for money.",5,0,13,General,Dresses,Dresses
+394,166,68,Love it,The material is very comfortable and fits perfectly.,4,1,17,General,Dresses,Dresses
+395,145,34,Highly recommend,"Not worth the price, very disappointed.",1,0,8,General Petite,Bottoms,Blouses
+396,123,22,Poor quality,"Excellent purchase, will buy again.",4,1,38,General Petite,Outerwear,Pants
+397,131,46,Poor quality,"The dress was smaller than expected, order one size up.",3,1,27,General Petite,Tops,Dresses
+398,146,21,Not as expected,The material is very comfortable and fits perfectly.,3,1,2,General,Outerwear,Pants
+399,185,27,Too small,"Excellent purchase, will buy again.",4,0,19,Intimates,Bottoms,Pants
+400,122,34,Great fit,"Excellent purchase, will buy again.",5,0,5,General,Outerwear,Blouses
+401,165,27,Poor quality,The material is very comfortable and fits perfectly.,5,0,26,General Petite,Bottoms,Dresses
+402,126,34,Not as expected,"Looks amazing, great value for money.",3,0,1,General Petite,Bottoms,Blouses
+403,101,37,Not as expected,"Excellent purchase, will buy again.",2,0,28,General,Tops,Dresses
+404,189,41,Love it,"Looks amazing, great value for money.",5,1,37,General,Dresses,Blouses
+405,116,22,Highly recommend,The material is very comfortable and fits perfectly.,4,0,2,General Petite,Bottoms,Pants
+406,132,51,Too small,"Looks amazing, great value for money.",5,0,15,General Petite,Bottoms,Dresses
+407,108,23,Great fit,"I didn’t like the quality, it feels cheap.",4,1,29,General Petite,Tops,Jackets
+408,142,19,Perfect dress,"The dress was smaller than expected, order one size up.",3,1,39,General,Bottoms,Pants
+409,147,30,Highly recommend,"Love the color and design, very trendy.",5,1,1,General Petite,Dresses,Jackets
+410,138,60,Highly recommend,"Excellent purchase, will buy again.",4,0,16,General Petite,Tops,Pants
+411,192,60,Love it,"Not worth the price, very disappointed.",3,1,40,Intimates,Dresses,Blouses
+412,141,65,Poor quality,"The dress was smaller than expected, order one size up.",2,0,11,General,Dresses,Dresses
+413,125,28,Poor quality,"Love the color and design, very trendy.",4,0,34,Intimates,Tops,Pants
+414,198,68,Love it,"Looks amazing, great value for money.",2,1,42,Intimates,Bottoms,Blouses
+415,149,64,Not as expected,"Excellent purchase, will buy again.",2,0,0,General Petite,Dresses,Dresses
+416,124,40,Poor quality,"Looks amazing, great value for money.",1,1,44,General,Dresses,Dresses
+417,123,33,Too small,"I didn’t like the quality, it feels cheap.",5,1,14,General Petite,Dresses,Pants
+418,112,48,Great fit,The material is very comfortable and fits perfectly.,4,1,25,General,Dresses,Dresses
+419,159,28,Highly recommend,"Excellent purchase, will buy again.",2,1,36,Intimates,Tops,Pants
+420,106,33,Highly recommend,"Love the color and design, very trendy.",1,0,20,General,Tops,Dresses
+421,156,25,Too small,"Love the color and design, very trendy.",3,1,48,General Petite,Outerwear,Jackets
+422,135,21,Poor quality,"I didn’t like the quality, it feels cheap.",4,1,30,General Petite,Outerwear,Blouses
+423,144,57,Highly recommend,"I didn’t like the quality, it feels cheap.",2,1,24,General Petite,Dresses,Jackets
+424,119,21,Perfect dress,"Excellent purchase, will buy again.",5,1,22,General,Bottoms,Pants
+425,164,42,Great fit,"Looks amazing, great value for money.",1,0,23,Intimates,Dresses,Jackets
+426,107,20,Great fit,"Not worth the price, very disappointed.",2,1,37,Intimates,Bottoms,Pants
+427,115,49,Highly recommend,"Love the color and design, very trendy.",5,0,27,General,Dresses,Dresses
+428,113,20,Love it,"Love the color and design, very trendy.",2,1,20,General Petite,Outerwear,Dresses
+429,175,44,Highly recommend,"I didn’t like the quality, it feels cheap.",4,1,42,Intimates,Outerwear,Pants
+430,186,46,Love it,"The dress was smaller than expected, order one size up.",4,0,17,General Petite,Bottoms,Jackets
+431,114,49,Highly recommend,"I didn’t like the quality, it feels cheap.",4,1,35,General,Dresses,Dresses
+432,191,67,Perfect dress,"Not worth the price, very disappointed.",1,0,34,General Petite,Bottoms,Blouses
+433,197,68,Not as expected,"Looks amazing, great value for money.",4,1,44,Intimates,Outerwear,Dresses
+434,165,36,Great fit,"Looks amazing, great value for money.",5,1,8,Intimates,Dresses,Blouses
+435,131,38,Highly recommend,"The dress was smaller than expected, order one size up.",2,1,37,General Petite,Dresses,Jackets
+436,186,22,Perfect dress,"Love the color and design, very trendy.",3,1,29,General,Bottoms,Blouses
+437,162,35,Love it,"I didn’t like the quality, it feels cheap.",5,1,43,General Petite,Tops,Blouses
+438,185,45,Love it,"Looks amazing, great value for money.",5,0,33,General,Bottoms,Blouses
+439,150,59,Great fit,"Not worth the price, very disappointed.",4,0,31,General Petite,Outerwear,Blouses
+440,124,39,Too small,"Excellent purchase, will buy again.",1,0,2,Intimates,Outerwear,Dresses
+441,157,38,Highly recommend,The material is very comfortable and fits perfectly.,2,0,2,General,Outerwear,Blouses
+442,162,23,Poor quality,The material is very comfortable and fits perfectly.,1,1,27,General,Outerwear,Dresses
+443,161,18,Love it,The material is very comfortable and fits perfectly.,2,1,43,General,Outerwear,Blouses
+444,121,22,Not as expected,"Love the color and design, very trendy.",2,1,14,Intimates,Tops,Pants
+445,157,58,Not as expected,"I didn’t like the quality, it feels cheap.",1,0,40,General Petite,Dresses,Jackets
+446,157,29,Love it,"The dress was smaller than expected, order one size up.",5,1,22,Intimates,Bottoms,Blouses
+447,185,43,Too small,"Looks amazing, great value for money.",2,1,39,General,Bottoms,Pants
+448,148,63,Too small,"Excellent purchase, will buy again.",1,0,10,General Petite,Outerwear,Blouses
+449,151,51,Perfect dress,"Not worth the price, very disappointed.",2,1,47,Intimates,Bottoms,Blouses
+450,141,66,Not as expected,"Excellent purchase, will buy again.",3,1,31,General,Outerwear,Blouses
+451,169,31,Perfect dress,"Not worth the price, very disappointed.",5,0,35,General,Tops,Pants
+452,114,43,Not as expected,"Love the color and design, very trendy.",4,1,32,Intimates,Tops,Jackets
+453,153,62,Highly recommend,"I didn’t like the quality, it feels cheap.",2,1,23,Intimates,Dresses,Pants
+454,159,44,Highly recommend,The material is very comfortable and fits perfectly.,3,0,38,Intimates,Tops,Jackets
+455,196,26,Poor quality,"I didn’t like the quality, it feels cheap.",4,1,33,General,Tops,Blouses
+456,107,43,Highly recommend,"Love the color and design, very trendy.",4,1,27,Intimates,Dresses,Dresses
+457,152,64,Poor quality,"The dress was smaller than expected, order one size up.",2,1,36,General,Bottoms,Blouses
+458,159,39,Highly recommend,"The dress was smaller than expected, order one size up.",1,1,6,Intimates,Outerwear,Jackets
+459,104,64,Great fit,"Love the color and design, very trendy.",2,1,3,General,Outerwear,Pants
+460,167,47,Highly recommend,"Not worth the price, very disappointed.",3,1,36,General,Bottoms,Blouses
+461,105,60,Perfect dress,"Looks amazing, great value for money.",4,1,0,General Petite,Dresses,Pants
+462,195,65,Love it,"Looks amazing, great value for money.",2,0,0,Intimates,Bottoms,Pants
+463,193,34,Perfect dress,"Not worth the price, very disappointed.",1,1,46,Intimates,Tops,Pants
+464,146,43,Love it,"The dress was smaller than expected, order one size up.",2,1,19,General,Dresses,Blouses
+465,198,53,Too small,"The dress was smaller than expected, order one size up.",5,1,18,General,Dresses,Pants
+466,154,18,Perfect dress,"The dress was smaller than expected, order one size up.",1,0,28,General,Dresses,Pants
+467,139,25,Too small,"I didn’t like the quality, it feels cheap.",3,1,9,General Petite,Outerwear,Blouses
+468,151,66,Poor quality,"The dress was smaller than expected, order one size up.",4,0,17,General Petite,Bottoms,Pants
+469,115,52,Poor quality,"Excellent purchase, will buy again.",2,0,27,General,Dresses,Blouses
+470,112,69,Great fit,The material is very comfortable and fits perfectly.,1,0,34,Intimates,Dresses,Jackets
+471,129,32,Highly recommend,"The dress was smaller than expected, order one size up.",5,1,42,Intimates,Dresses,Jackets
+472,118,64,Perfect dress,"Not worth the price, very disappointed.",1,1,46,General Petite,Bottoms,Jackets
+473,116,39,Too small,The material is very comfortable and fits perfectly.,5,1,30,General Petite,Outerwear,Pants
+474,162,31,Love it,"I didn’t like the quality, it feels cheap.",3,0,26,General,Tops,Dresses
+475,118,43,Poor quality,"Not worth the price, very disappointed.",4,1,10,Intimates,Outerwear,Dresses
+476,191,45,Highly recommend,The material is very comfortable and fits perfectly.,3,1,48,General,Dresses,Pants
+477,157,40,Poor quality,"Not worth the price, very disappointed.",2,1,48,General Petite,Outerwear,Dresses
+478,154,31,Love it,"I didn’t like the quality, it feels cheap.",1,0,37,Intimates,Outerwear,Blouses
+479,189,41,Highly recommend,"Excellent purchase, will buy again.",5,1,4,Intimates,Tops,Dresses
+480,189,19,Highly recommend,"I didn’t like the quality, it feels cheap.",5,1,7,General Petite,Bottoms,Pants
+481,161,62,Too small,"I didn’t like the quality, it feels cheap.",1,1,33,General,Bottoms,Pants
+482,122,43,Too small,"Not worth the price, very disappointed.",1,0,47,General,Outerwear,Blouses
+483,108,31,Perfect dress,"Love the color and design, very trendy.",2,0,11,Intimates,Outerwear,Jackets
+484,111,68,Perfect dress,"Looks amazing, great value for money.",3,1,37,General Petite,Bottoms,Pants
+485,100,24,Not as expected,"The dress was smaller than expected, order one size up.",5,1,0,Intimates,Bottoms,Blouses
+486,157,20,Not as expected,"The dress was smaller than expected, order one size up.",2,1,30,General Petite,Tops,Dresses
+487,100,64,Great fit,"Excellent purchase, will buy again.",3,1,3,General,Dresses,Dresses
+488,133,40,Poor quality,"Excellent purchase, will buy again.",2,0,48,General Petite,Outerwear,Blouses
+489,195,63,Perfect dress,"The dress was smaller than expected, order one size up.",5,1,44,General,Bottoms,Blouses
+490,147,60,Too small,"Looks amazing, great value for money.",1,1,49,General Petite,Outerwear,Pants
+491,188,64,Love it,"The dress was smaller than expected, order one size up.",1,1,4,Intimates,Outerwear,Dresses
+492,100,62,Too small,"Love the color and design, very trendy.",3,1,29,General,Bottoms,Blouses
+493,115,35,Poor quality,"Looks amazing, great value for money.",4,1,23,Intimates,Tops,Dresses
+494,160,55,Not as expected,"Excellent purchase, will buy again.",3,0,2,Intimates,Outerwear,Blouses
+495,163,52,Too small,The material is very comfortable and fits perfectly.,4,1,10,General,Tops,Dresses
+496,162,68,Great fit,"Not worth the price, very disappointed.",2,0,44,General,Bottoms,Jackets
+497,168,32,Poor quality,"Love the color and design, very trendy.",2,1,3,Intimates,Dresses,Pants
+498,121,42,Not as expected,"Love the color and design, very trendy.",5,1,25,Intimates,Dresses,Dresses
+499,192,54,Love it,"Excellent purchase, will buy again.",4,1,26,Intimates,Outerwear,Jackets
+500,166,45,Not as expected,"Excellent purchase, will buy again.",5,1,45,Intimates,Bottoms,Dresses

@@ -1,0 +1,6 @@
+{
+  "default_raw": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/raw/realdata.csv",
+  "default_processed": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/processed/preprocessed_reviews.parquet",
+  "uploaded_raw": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/uploaded/sample_reviews.csv",
+  "uploaded_processed": "/Users/ramesh/Desktop/ECommerceFeedbackAI/data/processed/uploaded_preprocessed.parquet"
+}

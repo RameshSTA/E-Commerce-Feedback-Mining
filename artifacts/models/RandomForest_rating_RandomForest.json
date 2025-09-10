@@ -1,0 +1,15 @@
+{
+  "model": "RandomForest",
+  "text_col": "text",
+  "label_col": "rating",
+  "max_features": 5000,
+  "ngram_max": 2,
+  "class_weight": "balanced",
+  "label_map": {
+    "1": 0,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4
+  }
+}
